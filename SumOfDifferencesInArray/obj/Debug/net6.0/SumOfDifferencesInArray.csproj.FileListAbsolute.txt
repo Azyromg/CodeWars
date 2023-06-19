@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\bin\Debug\net6.0\SumOfDifferencesInArray.exe
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\bin\Debug\net6.0\SumOfDifferencesInArray.deps.json
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\bin\Debug\net6.0\SumOfDifferencesInArray.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\bin\Debug\net6.0\SumOfDifferencesInArray.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\bin\Debug\net6.0\SumOfDifferencesInArray.pdb
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\refint\SumOfDifferencesInArray.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.pdb
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\SumOfDifferencesInArray.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfDifferencesInArray\obj\Debug\net6.0\ref\SumOfDifferencesInArray.dll

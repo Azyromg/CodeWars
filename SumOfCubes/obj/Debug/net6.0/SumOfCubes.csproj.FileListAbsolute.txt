@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\bin\Debug\net6.0\SumOfCubes.exe
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\bin\Debug\net6.0\SumOfCubes.deps.json
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\bin\Debug\net6.0\SumOfCubes.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\bin\Debug\net6.0\SumOfCubes.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\bin\Debug\net6.0\SumOfCubes.pdb
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\refint\SumOfCubes.dll
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.pdb
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\SumOfCubes.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\SumOfCubes\obj\Debug\net6.0\ref\SumOfCubes.dll

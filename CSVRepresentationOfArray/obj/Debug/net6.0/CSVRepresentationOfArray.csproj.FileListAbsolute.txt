@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\bin\Debug\net6.0\CSVRepresentationOfArray.exe
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\bin\Debug\net6.0\CSVRepresentationOfArray.deps.json
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\bin\Debug\net6.0\CSVRepresentationOfArray.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\bin\Debug\net6.0\CSVRepresentationOfArray.dll
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\bin\Debug\net6.0\CSVRepresentationOfArray.pdb
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.dll
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\refint\CSVRepresentationOfArray.dll
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.pdb
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\CSVRepresentationOfArray.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\CSVRepresentationOfArray\obj\Debug\net6.0\ref\CSVRepresentationOfArray.dll

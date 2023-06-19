@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\bin\Debug\net6.0\AlternatingCase.exe
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\bin\Debug\net6.0\AlternatingCase.deps.json
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\bin\Debug\net6.0\AlternatingCase.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\bin\Debug\net6.0\AlternatingCase.dll
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\bin\Debug\net6.0\AlternatingCase.pdb
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.dll
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\refint\AlternatingCase.dll
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.pdb
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\AlternatingCase.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\AlternatingCase\obj\Debug\net6.0\ref\AlternatingCase.dll

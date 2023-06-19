@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\bin\Debug\net6.0\MaxAndMine.exe
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\bin\Debug\net6.0\MaxAndMine.deps.json
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\bin\Debug\net6.0\MaxAndMine.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\bin\Debug\net6.0\MaxAndMine.dll
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\bin\Debug\net6.0\MaxAndMine.pdb
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.dll
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\refint\MaxAndMine.dll
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.pdb
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\MaxAndMine.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\MaxAndMine\obj\Debug\net6.0\ref\MaxAndMine.dll

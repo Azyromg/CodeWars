@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\bin\Debug\net6.0\AreTheNumbersInOrder.exe
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\bin\Debug\net6.0\AreTheNumbersInOrder.deps.json
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\bin\Debug\net6.0\AreTheNumbersInOrder.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\bin\Debug\net6.0\AreTheNumbersInOrder.dll
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\bin\Debug\net6.0\AreTheNumbersInOrder.pdb
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.dll
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\refint\AreTheNumbersInOrder.dll
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.pdb
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\AreTheNumbersInOrder.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\AreTheNumbersInOrder\obj\Debug\net6.0\ref\AreTheNumbersInOrder.dll

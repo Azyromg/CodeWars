@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\bin\Debug\net6.0\NumberOfPeopleInTheBus.exe
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\bin\Debug\net6.0\NumberOfPeopleInTheBus.deps.json
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\bin\Debug\net6.0\NumberOfPeopleInTheBus.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\bin\Debug\net6.0\NumberOfPeopleInTheBus.dll
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\bin\Debug\net6.0\NumberOfPeopleInTheBus.pdb
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.dll
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\refint\NumberOfPeopleInTheBus.dll
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.pdb
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\NumberOfPeopleInTheBus.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\NumberOfPeopleInTheBus\obj\Debug\net6.0\ref\NumberOfPeopleInTheBus.dll

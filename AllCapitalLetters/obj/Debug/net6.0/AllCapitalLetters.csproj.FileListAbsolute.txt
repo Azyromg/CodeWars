@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\bin\Debug\net6.0\AllCapitalLetters.exe
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\bin\Debug\net6.0\AllCapitalLetters.deps.json
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\bin\Debug\net6.0\AllCapitalLetters.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\bin\Debug\net6.0\AllCapitalLetters.dll
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\bin\Debug\net6.0\AllCapitalLetters.pdb
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.dll
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\refint\AllCapitalLetters.dll
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.pdb
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\AllCapitalLetters.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\AllCapitalLetters\obj\Debug\net6.0\ref\AllCapitalLetters.dll

@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\bin\Debug\net6.0\CountOfPositives.exe
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\bin\Debug\net6.0\CountOfPositives.deps.json
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\bin\Debug\net6.0\CountOfPositives.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\bin\Debug\net6.0\CountOfPositives.dll
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\bin\Debug\net6.0\CountOfPositives.pdb
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.dll
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\refint\CountOfPositives.dll
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.pdb
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\CountOfPositives.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\CountOfPositives\obj\Debug\net6.0\ref\CountOfPositives.dll

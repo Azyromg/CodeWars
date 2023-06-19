@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\bin\Debug\net6.0\ConvertToBinary.exe
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\bin\Debug\net6.0\ConvertToBinary.deps.json
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\bin\Debug\net6.0\ConvertToBinary.runtimeconfig.json
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\bin\Debug\net6.0\ConvertToBinary.dll
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\bin\Debug\net6.0\ConvertToBinary.pdb
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.AssemblyInfo.cs
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.dll
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\refint\ConvertToBinary.dll
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.pdb
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ConvertToBinary.genruntimeconfig.cache
+C:\Users\Артем\source\repos\CodeWars\ConvertToBinary\obj\Debug\net6.0\ref\ConvertToBinary.dll
